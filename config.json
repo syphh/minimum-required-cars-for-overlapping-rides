@@ -1,0 +1,7 @@
+{
+    "nb_rides": 100,
+    "min_ride_duration": 60,
+    "max_ride_duration": 360,
+    "max_running_time_in_seconds": 30,
+    "save_plot_filename": "car_assignments.html"
+}
